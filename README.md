@@ -21,4 +21,4 @@ I used a MVC structure that I already knew from my experience building websites 
 
 **Problem encounter:**
 
-I wanted to turn the variable "operators" into a static variable but it triggered an error in the parsedToArray() methos in the class CalculatorActions in the folder src/utils/Calculator.js. The error says that it couldn't read the property includes and I don't know where it comes from.
+I wanted to turn the variable "operators" into a static variable but it triggered an error in the parsedToArray() method in the class CalculatorActions in the folder src/utils/Calculator.js. The error says that it couldn't read the property includes and I don't know where it comes from.
