@@ -1,0 +1,18 @@
+:root {
+  --primary: #89b4f8;
+  --secondary: #5e6366;
+  --ternary: #3c4043;
+  --dark: #202124;
+  --light: #e5f2ff;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  color: var(--light);
+  background-color: var(--dark);
+}
